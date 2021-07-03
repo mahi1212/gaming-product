@@ -103,6 +103,10 @@ button{
     transition: width 0.5s;
 }
 
+.add-btn:hover{
+    cursor: pointer;
+}
+
 button img{
     width: 30px;
     display: none;
